@@ -20,9 +20,14 @@
 - 🤔 I’m looking for help with ... Technical Knowleges
 - 📫 How to reach me: ... Social Media
 
-### I am open to discussing new opportunities, please reach out at sajjadur.rahman.sakib.x@gmail.com
+### 💬 I am happy to address any questions or provide further assistance that you may require. If you need any information or have any queries, feel free to contact me. I will be glad to be in touch with you.
 
-#### 💬 Ask me about Coding challenges, Algorithmic challenges, data structures, and problem-solving strategies, Flutter development intricacies, Building beautiful and functional mobile and web applications. or delve into the fascinating world of computer science. Let's embark on a journey of curiosity, innovation, and endless learning together.
+- **Email**: [sajjadur.rahman.sakib.x@gmail.com](mailto:sajjadur.rahman.sakib.x@gmail.com)
+- **Telegram**: [sajjadurrahmansakib](https://t.me/sajjadurrahmansakib)
+- **WhatsApp**: [01518652610](https://wa.me/8801518652610)
+- **Portfolio**: [Sajjadur Rahman Sakib](https://sakib.tech)
+
+#### 💡 Ask me about coding challenges, problem-solving strategies, Flutter development, or building seamless apps with Golang backends and secure APIs. I love exploring data structures, efficient algorithms, and the art of creating functional, user-friendly applications.
 
 </br>
 
